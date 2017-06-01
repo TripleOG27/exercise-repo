@@ -1,3 +1,4 @@
 # exercise-repo
+this project will contain...
 Repo made for exercise
-We resolved the Coflict.
+Edited again in master Branch.
